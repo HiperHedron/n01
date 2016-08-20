@@ -1,5 +1,5 @@
 Nagłówek
-hk51 	military gear > weapon
+hk51 	military gear > Weapon
 koth vortena 	 delicacies & weapons
 lana beniko 	cultural artifacts
 T7		technology > republic memo
